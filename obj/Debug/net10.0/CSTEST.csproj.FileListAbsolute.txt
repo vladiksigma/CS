@@ -12,3 +12,4 @@ C:\Users\vlads\CSTEST\obj\Debug\net10.0\refint\CSTEST.dll
 C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.pdb
 C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.genruntimeconfig.cache
 C:\Users\vlads\CSTEST\obj\Debug\net10.0\ref\CSTEST.dll
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.sourcelink.json

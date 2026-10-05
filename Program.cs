@@ -1,15 +1,20 @@
 using System;
 
 Console.WriteLine("Welcome to the Guess the Number game!");
-Console.WriteLine("I am thinking of a number between 1 and 100.");
+
+
+Console.WriteLine("Enter max number: ");
+int maxNumber = int.Parse(Console.ReadLine()!);
+
+Console.WriteLine($"I am thinking of a number between 1 and {maxNumber}.");
 
 var random = new Random();
 var playAgain = true;
 
 while (playAgain)
 {
-    int target = random.Next(1, 101);
-    int maxAttempts = 10;
+    int target = random.Next(1, maxNumber + 1);
+    int maxAttempts = maxNumber / 10 + 3;
     int attempts = 0;
     bool won = false;
 
