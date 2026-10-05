@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlads\\CSTEST\\CSTEST.csproj": {}
+    "C:\\Users\\vlads\\new2\\CS\\CSTEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlads\\CSTEST\\CSTEST.csproj": {
+    "C:\\Users\\vlads\\new2\\CS\\CSTEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlads\\CSTEST\\CSTEST.csproj",
+        "projectUniqueName": "C:\\Users\\vlads\\new2\\CS\\CSTEST.csproj",
         "projectName": "CSTEST",
-        "projectPath": "C:\\Users\\vlads\\CSTEST\\CSTEST.csproj",
+        "projectPath": "C:\\Users\\vlads\\new2\\CS\\CSTEST.csproj",
         "packagesPath": "C:\\Users\\vlads\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlads\\CSTEST\\obj\\",
+        "outputPath": "C:\\Users\\vlads\\new2\\CS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vlads\\AppData\\Roaming\\NuGet\\NuGet.Config"
