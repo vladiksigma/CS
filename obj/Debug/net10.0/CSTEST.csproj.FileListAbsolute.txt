@@ -1,0 +1,14 @@
+C:\Users\vlads\CSTEST\bin\Debug\net10.0\CSTEST.exe
+C:\Users\vlads\CSTEST\bin\Debug\net10.0\CSTEST.deps.json
+C:\Users\vlads\CSTEST\bin\Debug\net10.0\CSTEST.runtimeconfig.json
+C:\Users\vlads\CSTEST\bin\Debug\net10.0\CSTEST.dll
+C:\Users\vlads\CSTEST\bin\Debug\net10.0\CSTEST.pdb
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.AssemblyInfoInputs.cache
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.AssemblyInfo.cs
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.csproj.CoreCompileInputs.cache
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.dll
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\refint\CSTEST.dll
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.pdb
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\CSTEST.genruntimeconfig.cache
+C:\Users\vlads\CSTEST\obj\Debug\net10.0\ref\CSTEST.dll
