@@ -27,7 +27,7 @@ while (playAgain)
 
         if (!int.TryParse(input, out int guess))
         {
-            Console.WriteLine("Please enter a valid whole number, {playerName}.");
+            Console.WriteLine($"Please enter a valid whole number, {playerName}.");
             continue;
         }
 
@@ -35,11 +35,11 @@ while (playAgain)
 
         if (guess < target)
         {
-            Console.WriteLine("Too low! Try a higher number, {playerName}.");
+            Console.WriteLine($"Too low! Try a higher number, {playerName}.");
         }
         else if (guess > target)
         {
-            Console.WriteLine("Too high! Try a lower number.");
+            Console.WriteLine($"Too high! Try a lower number, {playerName}.");
         }
         else
         {
@@ -54,11 +54,11 @@ while (playAgain)
         Console.WriteLine($"Sorry, {playerName}, you ran out of attempts. The number was {target}.");
     }
 
-    Console.Write("Do you want to play again, {playerName}? (y/n): ");
+    Console.Write($"Do you want to play again, {playerName}? (y/n): ");
     string? replayChoice = Console.ReadLine();
 
     playAgain = replayChoice is not null && replayChoice.Trim().Equals("y", StringComparison.OrdinalIgnoreCase);
     Console.WriteLine();
 }
 
-Console.WriteLine("Thanks for playing! Goodbye, {playerName}.");
+Console.WriteLine($"Thanks for playing! Goodbye, {playerName}.");
