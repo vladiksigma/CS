@@ -15,7 +15,7 @@ var playAgain = true;
 while (playAgain)
 {
     int target = random.Next(1, maxNumber + 1);
-    int maxAttempts = maxNumber / 10 + 3;
+    int maxAttempts = (int)Math.Ceiling(Math.Log(maxNumber + 1, 2)) + 2;
     int attempts = 0;
     bool won = false;
 
